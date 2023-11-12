@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I have opinions and preferences:
+- tabs not spaces
+- vi not emacs
+
+I am involved with some of the [IndieWeb](https://indieweb.org); I like their [principles](https://indieweb.org/principles) but are wary of their shibboleths [^1]
+
+[^1]: The fact that they don't even reference their shibboleths is telling.
+
 <!--
 **omz13/omz13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
