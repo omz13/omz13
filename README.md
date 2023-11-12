@@ -4,9 +4,10 @@ I have opinions and preferences:
 - tabs not spaces
 - vi not emacs
 
-I am involved with some of the [IndieWeb](https://indieweb.org); I like their [principles](https://indieweb.org/principles) but are wary of their shibboleths [^1]
+I am involved with aspects of [IndieWeb](https://indieweb.org): I like some of their [principles](https://indieweb.org/principles) but am very wary of their shibboleths[^1] and pushback[^2]; I built a multi-tenant IndieAuth server; I built a multi-tenant CMS that is IndieWeb-friendly.
 
 [^1]: The fact that they don't even reference their shibboleths is telling.
+[^2]: What happens when you mention one of the shibboleths, let alone try to question it.
 
 <!--
 **omz13/omz13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
