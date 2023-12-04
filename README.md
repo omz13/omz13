@@ -1,13 +1,21 @@
 ### Hi there 👋
 
+I am a Gen X dude who is morphing into an internet greybeard with misanthropic tendencies because you keep making the same stupid mistakes as you never learn from history; I have been online since the days of 300 baud acoustic couplers.
+
 I have opinions and preferences:
 - tabs not spaces
 - vi not emacs
+- I like my programming languages to be strongly typed or to use RPN
+- Oxford comma FTW
+- Agile is performnance art[^1]
 
-I am involved with aspects of [IndieWeb](https://indieweb.org): I like some of their [principles](https://indieweb.org/principles) but am very wary of their shibboleths[^1] and pushback[^2]; I built a multi-tenant IndieAuth server; I built a multi-tenant CMS that is IndieWeb-friendly.
+These days you are likely to encounter me because I am involved, somewhat, with aspects of [IndieWeb](https://indieweb.org): I like some of their [principles](https://indieweb.org/principles) but their execution is leaves a lot to be desired and I am very wary of the cliqueness[^2], sanctimony[^3], shibboleths[^4], and pushback[^5]) within some parts of the community; I built a multi-tenant IndieAuth server. I built a multi-tenant CMS that is IndieWeb-friendly. I've actually built a lot of cool things that  work, and am building some other that may or may not work, but I don't broadcast everything I'm doing because I'm neither vacuous nor insecure, I know what boundaries are.
 
-[^1]: The fact that they don't even reference their shibboleths is telling.
-[^2]: What happens when you mention one of the shibboleths, let alone try to question it.
+[^1]: For my mid-life crisis, instead of buying a Porsche I went to art school and obtained an MFA, so trust me when I say I know bollocks when I see it, and Agile, like a lot of things in tech and project management, is less about delivery and more about appearances and good ol' CYA. Don't even get me started on PRINCE2.
+[^2]: There is some very cargo-cult activity going on and I'm not drinking your Kool-Aid.
+[^3]: I am not the only one who has noticed this; it really is _you_ and not _me_.
+[^4]: The fact that they don't even reference their shibboleths is telling.
+[^5]: What happens when you bump into one of the above and try to question or even change things.
 
 <!--
 **omz13/omz13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
