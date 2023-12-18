@@ -1,24 +1,20 @@
 ### Hi there 👋
 
-I am a Gen X dude who is morphing into an internet greybeard with misanthropic tendencies because you keep making the same stupid mistakes as you never learn from history; I have been online since the days of 300 baud acoustic couplers.
+I am a Gen X dude who is morphing into an internet greybeard with misanthropic tendencies because you never learn from history and keep making the same stupid mistakes; I have been online since the days of 300 baud acoustic couplers; I cut my teeth, like everybody else in 197x, programming BASIC and 6502 assembler; these days I'm into Go and Swift.
 
-I have opinions and preferences:
+I have opinions and preferences, deal with them:
 - tabs not spaces
 - vi not emacs
-- I like my programming languages to be strongly typed or to use RPN
+- I like my programming languages strongly typed
 - Oxford comma FTW
 - Agile is performnance art[^1]
 
-I have read _Generation X: Tales for an Accelerated Culture_, _Neuromancer_, _Stranger in a Strange Land_, and _Zen and the Art of Motocycle Maintenance_. If you haven't done so already, do read these because they are very good.
+I highly recommend that, if you haven;t done so already, read _Generation X: Tales for an Accelerated Culture_, _Neuromancer_, _Stranger in a Strange Land_, and _Zen and the Art of Motocycle Maintenance_.
 
-These days you are likely to encounter me because I am involved, somewhat, with aspects of [IndieWeb](https://indieweb.org): I like some of their [principles](https://indieweb.org/principles) but their execution leaves a lot to be desired (for example, they take years to make decisions and then wonder why they're behind the curve), the spin is ridiculous[^spin], and I am very wary of the cliqueness[^2], sanctimony[^3], shibboleths[^4], and pushback[^5] within some parts of the community; I built a multi-tenant IndieAuth server. I built a multi-tenant CMS that is IndieWeb-friendly. I've actually built a lot of cool things that  work, and am building some other that may or may not work, but I don't broadcast everything I'm doing because I'm neither vacuous nor insecure nor in need of validation, and I know what boundaries are.
+These days you are likely to encounter me because I am involved, or not[^indieweb-snooze], with [IndieWeb](https://indieweb.org)
 
-[^spin]: Some people (well, one person in particular) "big up" things that the community has done but fail to be totally honest about its impact; for example, its great to say you've considered a bunch of things and have a specifiaction to address those things, but, ahem, nobody outside a one-off proof-of-concept demonstration has really implemented and interoperated in production.
-[^1]: For my mid-life crisis, instead of buying a Porsche I went to art school and gained an MFA, so trust me when I say I know bollocks when I see it: Agile, like a lot of things in tech and project management is less about delivery and more about appearances and good ol' CYA. Don't even get me started on PRINCE2.
-[^2]: There is some very cargo-cult activity going on and I'm not drinking the Kool-Aid.
-[^3]: I am not the only one who has noticed this; it really is _you_ and not _me_.
-[^4]: The fact that they don't even reference their shibboleths is telling.
-[^5]: What happens when you bump into one of the above and try to question or even change things.
+[^1]: I have an advanced degree in Visual Art (MFA) so I know bollocks when I see it
+[^indieweb-snooze]: Blame goes to those in #indieweb-dev who behave like "Quiche Eaters"
 
 <!--
 **omz13/omz13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
