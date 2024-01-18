@@ -1,12 +1,13 @@
 ### Hi there 👋
 
-I am a Gen X cisgender man (he/him) who has been online since the days of 300 baud acoustic couplers; I cut my teeth, like everybody else in 197x, programming BASIC and 6502 assembler while listening to the _Hitch Hiker's Guide to the Galaxy_ radio show; these days I'm into Go and SwiftUI and my tcp/ip packets arrive via an optical-fiber cable.
+I am a Gen X dude (he/him) who has been online since the days of 300 baud acoustic couplers; I cut my teeth, like everybody else in 197x, programming BASIC and 6502 assembler while listening to the _Hitch Hiker's Guide to the Galaxy_ radio show; these days I'm into Go and SwiftUI and my tcp/ip packets arrive via an optical-fiber cable.
 
 If you haven't already done so, I highly recommend that you read _Generation X: Tales for an Accelerated Culture_, _Neuromancer_, _Stranger in a Strange Land_, and _Zen and the Art of Motocycle Maintenance_.
 
-I am very much _indie web_ but to a far lesser extent [IndieWeb](https://indieweb.org) because reasons[^indieweb-sucks].
+I am very much _indie web_ but to a far lesser extent [IndieWeb](https://indieweb.org) even though I made things[^my-iw-things] for it because reasons[^indieweb-sucks]
 
-[^indieweb-sucks]: i) groupthink, confirmation bias, and especially the pushback in #indieweb-dev; ii) hypocrisy and double-standards; iii) diminishing relevance
+[^my-iw-things] : A multi-tenant CMS; an IndieAuth IdP/AS; etc.
+[^indieweb-sucks]: i) groupthink, confirmation bias, and especially the pushback in #indieweb-dev; ii) hypocrisy and double-standards; iii) diminishing relevance.
 
 <!--
 **omz13/omz13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
