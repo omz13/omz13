@@ -4,7 +4,7 @@ I am a Gen X dude (he/him) who has been online since the days of 300 baud acoust
 
 If you haven't already done so, I highly recommend that you read _Generation X: Tales for an Accelerated Culture_, _Neuromancer_, _Stranger in a Strange Land_, and _Zen and the Art of Motocycle Maintenance_.
 
-I am very much _indie web_ but to a far lesser extent [IndieWeb](https://indieweb.org) even though I made things[^my-iw-things] for it because reasons[^indieweb-sucks]
+I am very much _indie web_; even though I made things[^my-iw-things] for it, I am very much less into [IndieWeb](https://indieweb.org/) because  confirmed reasons[^indieweb-sucks]
 
 [^my-iw-things]: A multi-tenant CMS; an IndieAuth IdP/AS; etc.
 [^indieweb-sucks]: i) groupthink, confirmation bias, and especially the pushback in #indieweb-dev; ii) hypocrisy and double-standards; iii) diminishing relevance.
