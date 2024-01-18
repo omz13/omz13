@@ -6,7 +6,7 @@ If you haven't already done so, I highly recommend that you read _Generation X: 
 
 I am very much _indie web_ but to a far lesser extent [IndieWeb](https://indieweb.org) even though I made things[^my-iw-things] for it because reasons[^indieweb-sucks]
 
-[^my-iw-things] : A multi-tenant CMS; an IndieAuth IdP/AS; etc.
+[^my-iw-things]: A multi-tenant CMS; an IndieAuth IdP/AS; etc.
 [^indieweb-sucks]: i) groupthink, confirmation bias, and especially the pushback in #indieweb-dev; ii) hypocrisy and double-standards; iii) diminishing relevance.
 
 <!--
