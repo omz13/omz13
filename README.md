@@ -4,11 +4,12 @@ I am a Gen X dude (he/him) who has been online since the days of 300 baud acoust
 
 If you haven't already done so, I highly recommend that you read _Generation X: Tales for an Accelerated Culture_, _Neuromancer_, _Stranger in a Strange Land_, and _Zen and the Art of Motocycle Maintenance_.
 
-I made things[^my-iw-things] for IndieWeb; I am very much _indieweb_ but currently not so much into [_IndieWeb_](https://indieweb.org/) because reasons[^indieweb-sucks] and diminishing relevance[^relevance]
+I'm into the open internet.
+
+I make things[^my-iw-things] for [_IndieWeb_](https://indieweb.org/) but, like others, I'm distancing myself because reasons[^indieweb-sucks].
 
 [^my-iw-things]: A multi-tenant CMS with microformats as its native format; an IdP/AS supporting IndieAuth; etc.
-[^indieweb-sucks]: groupthink, confirmation bias, hypocrisy, low CMMI, and most especially the pushback in #indieweb-dev
-[^relevance]: In a "fight" between IndieWeb (Microformats+WebMentions) and Fediverse (ActivityStreams/ActivityPub), IndieWeb is like betamax and Fediverse is like VHS, and we all know how that ended
+[^indieweb-sucks]: groupthink, confirmation bias, hypocrisy, immature CMMI, and most especially the pushback in #indieweb-dev
 
 <!--
 **omz13/omz13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
