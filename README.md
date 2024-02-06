@@ -6,7 +6,7 @@ If you haven't already done so, I highly recommend that you read _Generation X: 
 
 I'm into the open internet.
 
-I make things[^my-iw-things] for the indie web but, like others, I'm distancing myself from [_IndieWeb_](https://indieweb.org/ because reasons[^indieweb-sucks].
+I make things[^my-iw-things] for the _indie web_ but, like others, I'm distancing myself from [_IndieWeb_](https://indieweb.org/) because reasons[^indieweb-sucks].
 
 [^my-iw-things]: A multi-tenant CMS with microformats as its native format; an IdP/AS supporting IndieAuth; etc.
 [^indieweb-sucks]: groupthink, confirmation bias, hypocrisy, immature CMM, and most especially the pushback in #indieweb-dev
