@@ -2,7 +2,7 @@
 
 I am a Gen X dude (he/him) who has been online since the days of 300 baud acoustic couplers; I cut my teeth, like everybody else in the early 1980's, programming BASIC and 6502 assembler while listening to the _Hitch Hiker's Guide to the Galaxy_ radio show; these days I'm into Go and SwiftUI and my tcp/ip packets arrive via an optical-fiber cable (FTTH FTW).
 
-If you haven't already done so, I highly recommend that you read Douglas Coupland's _Microserfs_, William Gibson's _Neuromancer_, Robert A. Heinlein's _Stranger in a Strange Land_, ancd Robert M. Pirsig's _Zen and the Art of Motocycle Maintenance_.
+If you haven't already done so, I highly recommend that you read Douglas Coupland's _Microserfs_, William Gibson's _Neuromancer_, Robert A. Heinlein's _Stranger in a Strange Land_, and Robert M. Pirsig's _Zen and the Art of Motocycle Maintenance_.
 
 I'm into the open internet.
 
