@@ -8,8 +8,7 @@ If you haven't already done so, I highly recommend that you read Douglas Couplan
 
 I make things[^my-iw-things] for the _web_; I'm taking a hiatus[^indieweb-hiatus] from the [_IndieWeb_](https://indieweb.org/) community because reasons[^indieweb-sucks].
 
-[^my-iw-things]: a multi-tenant CMS with microformats as its native format; an IdP/AS supporting IndieAuth and more; federation via ActivityPub (because that is where the Activity[^activity] is).
-[^action]: [Activity](https://www.w3.org/TR/activitystreams-vocabulary/#dfn-activity); yes, I just made a very poor joke.
+[^my-iw-things]: a multi-tenant CMS with microformats as its native format; an IdP/AS supporting IndieAuth and more; federation via ActivityPub (because that is where the action is).
 [^indieweb-hiatus]: taking an extended hiatus.
 [^indieweb-sucks]: groupthink, confirmation bias, hypocrisy, technical immaturity, lack of resilience, diminishing relevance, and most especially the pushback in #indieweb-dev.
 
