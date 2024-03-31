@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Gen X dude (he/him) who has been online since the days of 300 baud acoustic couplers; I cut my teeth, like everybody else in the early 1980s, programming BASIC and 6502 assembler while listening to the _Hitch Hiker's Guide to the Galaxy_ radio show; these days I'm into Go and SwiftUI and my tcp/ip packets arrive via an optical-fiber cable (FTTH FTW).
+I am a Gen X dude (he/him) who has been online since the days of 300 baud acoustic couplers; I cut my teeth, like everybody else in the early 1980s, programming BASIC and 6502 assembler while listening to the _Hitch Hiker's Guide to the Galaxy_ radio show; these days I'm into Go and SwiftUI and my tcp packets arrive via an optical-fiber cable (FTTH FTW).
 
 I'm married with children. _La famille avant tout_.
 
