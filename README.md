@@ -4,7 +4,7 @@ I am a Gen X dude (he/him) who has been online since the days of 300 baud acoust
 
 I'm married with children. _La famille avant tout_.
 
-If you haven't already done so, I highly recommend that you read Douglas Coupland's _Microserfs_, William Gibson's _Neuromancer_, Robert A. Heinlein's _Stranger in a Strange Land_, and Robert M. Pirsig's _Zen and the Art of Motocycle Maintenance_.
+If you haven't already done so, I highly recommend that you read Albert-László Barabási's _Linked_, Douglas Coupland's _Microserfs_, William Gibson's _Neuromancer_, Robert A. Heinlein's _Stranger in a Strange Land_, and Robert M. Pirsig's _Zen and the Art of Motocycle Maintenance_.
 
 I make things[^my-iw-things] for the #SmallWeb or #PersonalWeb or whatever its called these days; I'm taking a hiatus[^indieweb-hiatus] from the [_IndieWebCamp_](https://indieweb.org/) community because reasons[^indieweb-sucks].
 
