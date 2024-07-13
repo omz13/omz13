@@ -1,17 +1,16 @@
 ### Hi there 👋
 
-I am a Gen X dude (he/him) who has been online since the days of 300 baud acoustic couplers; I cut my teeth, like everybody else in the early 1980s, programming BASIC and 6502 assembler while listening to the _Hitch Hiker's Guide to the Galaxy_ and LBC's _Nightline_ on the radio; these days I'm into Go and SwiftUI and my tcp packets arrive via an optical-fiber cable (FTTH FTW).
+I am a Gen X dude (he/him) who has been online since the days of 300 baud acoustic couplers; I cut my teeth, like everybody else in the early 1980s, programming BASIC and 6502 assembler while listening to the _Hitch Hiker's Guide to the Galaxy_ and LBC's _Nightline_ on the radio; these days I'm into Go, SwiftUI, TypeScript, et al, and my tcp packets arrive via an optical-fiber cable (FTTH FTW).
 
 I'm married with children. _La famille avant tout_.
 
-If you haven't already done so, I highly recommend that you read Albert-László Barabási's _Linked_, Douglas Coupland's _Microserfs_, William Gibson's _Neuromancer_, Robert A. Heinlein's _Stranger in a Strange Land_, and Robert M. Pirsig's _Zen and the Art of Motocycle Maintenance_. I prefeer the radio series to the books when it comes to Douglas Adams' _H2G2_.
+If you haven't already done so, I highly recommend that you read Albert-László Barabási's _Linked_, Douglas Coupland's _Microserfs_, William Gibson's _Neuromancer_, Robert A. Heinlein's _Stranger in a Strange Land_, and Robert M. Pirsig's _Zen and the Art of Motocycle Maintenance_. I prefer the radio series to the books when it comes to Douglas Adams' _H2G2_.
 
-I make things[^my-iw-things] for the #SmallWeb or #PersonalWeb or whatever its called these days; I'm taking a hiatus[^indieweb-hiatus] from direct involement with the [_IndieWebCamp_](https://indieweb.org/) community because reasons[^indieweb-sucks][^indieweb-gah].
+I'm taking a hiatus[^indieweb-hiatus] from direct involement with the [#IndieWeb](https://indieweb.org/) community because reasons[^indieweb-sucks][^indieweb-gah].
 
-[^my-iw-things]: a multi-tenant CMS with microformats as its native format; an IdP/AS supporting IndieAuth and more; federation via ActivityPub (because that is where the action is).
-[^indieweb-hiatus]: a very extended hiatus.
-[^indieweb-sucks]: dogma, groupthink, confirmation bias, hypocrisy, lack of resilience, diminishing relevance, and most especially pushback.
-[^indieweb-gah]: in discussions with people, it is clear that I am not the only person who has had these issues; I will also not be the last, because the community, or more specifically the core leaders, seem to be tone-deaf about hearing anything negative, let alone, thinking about or even doing anything to change their position(s); I'm not Drinking the Kool-Aid; your shibboleths do more harm than good.
+[^indieweb-hiatus]: a very extended hiatus
+[^indieweb-sucks]: dogma, groupthink, confirmation bias, hypocrisy, lack of resilience, diminishing relevance, and most especially pushback from #indieweb-dev (who are more cult than community with your silly shibboleths)
+[^indieweb-gah]: in discussions with people, it is clear that I am not the only person who has had these issues; I'm not Drinking the Kool-Aid.
 
 <!--
 **omz13/omz13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
