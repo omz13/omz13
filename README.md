@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-I am a Gen X dude (he/him) who has been online since the days of 300 baud acoustic couplers; I cut my teeth, like everybody else in the early 1980s, programming BASIC and 6502 assembler while listening to the _Hitch Hiker's Guide to the Galaxy_ and LBC's _Nightline_ on the radio; these days I'm into Go, SwiftUI, TypeScript, et al, and my tcp packets arrive via an optical-fiber cable (FTTH FTW).
+I am a Gen X dude (he/him/his) who has been online since the days of V.23; I cut my teeth, like everybody else in the early 1980s, programming BASIC and 6502 assembler while listening to the _Hitch Hiker's Guide to the Galaxy_ and LBC's _Nightline_ on the radio; these days I'm into Go, SwiftUI, TypeScript, et al, and my tcp packets arrive via an optical cable (FTTH FTW).
 
-If you haven't already done so, I highly recommend that you read Albert-László Barabási's _Linked_, Douglas Coupland's _Microserfs_, William Gibson's _Neuromancer_, Robert A. Heinlein's _Stranger in a Strange Land_, Julian May's _Saga of Pliocene Exile_, and Robert M. Pirsig's _Zen and the Art of Motocycle Maintenance_. I prefer the radio series to the books when it comes to Douglas Adams' _H2G2_.
+I was educated in London, England; I graduated with a degree in Design and Innovation and then a Master in Fine Art (MFA); I live in the EU.
+
+If you haven't already done so, I highly recommend that you read Albert-László Barabási's _Linked_ , Douglas Coupland's _Microserfs_, William Gibson's _Neuromancer_, Robert A. Heinlein's _Stranger in a Strange Land_, Julian May's _Saga of Pliocene Exile_, and Robert M. Pirsig's _Zen and the Art of Motocycle Maintenance_.
 
 <!--
 **omz13/omz13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
