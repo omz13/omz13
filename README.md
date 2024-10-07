@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I am a Gen X dude (he/him/his) who has been online since the days of V.23; I cut my teeth, like everybody else in the early 1980s, programming BASIC and 6502 assembler while listening to the _Hitch Hiker's Guide to the Galaxy_ and LBC's _Nightline_ on the radio; these days I'm into Go, SwiftUI, TypeScript, et al, and my tcp packets arrive via an optical cable (FTTH FTW).
+I am a Gen X dude (he/him/his) who has been online since the days of V.23 and 9-pin dot matrix printers; I cut my teeth, like everybody else in the early 1980s, programming BASIC and 6502 assembler while listening to the _Hitch Hiker's Guide to the Galaxy_ on the radio; these days I'm into Go, SwiftUI, TypeScript, et al, and my tcp packets arrive via an optical cable (FTTH FTW).
 
-I am typical of Gen X in that I am busy getting on with my thing and don't feel the need to humblebrag to the whole world about my accomplishments; I don't care about followers or acquiring kudos or the need for validation or whatever; my musical taste is pretty eclectic but highly influenced by Tangerine Dream, Yello, and Can.
+I am typical of Gen X in that I am busy getting on with my thing and don't feel the need to humblebrag to the whole world about my accomplishments; I don't care about followers or acquiring kudos or the need for validation or whatever; my musical taste is pretty eclectic (initially influenced by Tangerine Dream, Yello, and Can).
 
-I was born and raised in London, England; I graduated with a BSc (Hons) in Design and Innovation; I also have a Master in Fine Art (MFA); I live in the EU.
+I was born and raised in London, England and spent too much of my youth listening into the late night on the radio to _LBC's _Nightline_; I graduated with a BSc (Hons) in Design and Innovation; I have a Master in Fine Art (MFA); I did cut-and-paste when that meant using a 10A scapel and 3M Spray Mount; I live in the EU.
 
 If you haven't already done so, I highly recommend that you read Albert-László Barabási's _Linked_ , Douglas Coupland's _Microserfs_, William Gibson's _Neuromancer_, Robert A. Heinlein's _Stranger in a Strange Land_, Julian May's _Saga of Pliocene Exile_, and Robert M. Pirsig's _Zen and the Art of Motocycle Maintenance_.
 
