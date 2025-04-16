@@ -6,7 +6,7 @@ I am typical of Gen X in that I am busy getting on with my thing and don't feel 
 
 I was born and raised in London, England and spent too much of my youth listening into the late night on the radio to LBC's _Nightline_; I graduated with a BSc (Hons) in Design and Innovation; I have a Master in Fine Art (MFA); I did cut-and-paste when that meant using a 10A scapel and 3M Spray Mount; I live in the EU.
 
-If you haven't already done so, I highly recommend that you read Albert-László Barabási's _Linked_ , Douglas Coupland's _Microserfs_, William Gibson's _Neuromancer_, Robert A. Heinlein's _Stranger in a Strange Land_, Julian May's _Saga of Pliocene Exile_, and Robert M. Pirsig's _Zen and the Art of Motocycle Maintenance_.
+If you haven't already done so, I highly recommend that you read Albert-László Barabási's _Linked_, Douglas Coupland's _Microserfs_, William Gibson's _Neuromancer_, Robert A. Heinlein's _Stranger in a Strange Land_, Julian May's _Saga of Pliocene Exile_, and Robert M. Pirsig's _Zen and the Art of Motocycle Maintenance_.
 
 <!--
 **omz13/omz13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
