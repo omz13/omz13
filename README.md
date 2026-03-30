@@ -12,9 +12,10 @@ My timezone is UTC+1.
 
 I graduated with a BSc (Hons) in Design and Innovation and I have a Master in Fine Art (MFA).
 
-If you haven't already done so, I highly recommend that you read Albert-László Barabási's _Linked_, Douglas Coupland's _Microserfs_, William Gibson's _Neuromancer_, Robert A. Heinlein's _Stranger in a Strange Land_, Julian May's _Saga of Pliocene Exile_, and Robert M. Pirsig's _Zen and the Art of Motocycle Maintenance_[^ZAMM].
+If you haven't already done so, I highly recommend that you read Albert-László Barabási's _Linked_, Douglas Coupland's _Microserfs_, William Gibson's _Neuromancer_[^Gibson], Robert A. Heinlein's _Stranger in a Strange Land_, Julian May's _Saga of Pliocene Exile_, and Robert M. Pirsig's _Zen and the Art of Motocycle Maintenance_[^ZAMM].
 
-[^ZAMM]: for those unfamiliar with this work, a good backgrounder is [_Turning 50: Zen and the Art of Motorcycle Maintenance_](https://www.bbc.co.uk/sounds/play/m001zfqh)
+[^Gibson]: hear also [William Gibson on BBC World Book Club](https://www.bbc.co.uk/programmes/p02j2b59))
+[^ZAMM]: a good backgrounder is [_Turning 50: Zen and the Art of Motorcycle Maintenance_](https://www.bbc.co.uk/programmes/m001zfqh)
 
 <!--
 **omz13/omz13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
