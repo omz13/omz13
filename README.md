@@ -2,7 +2,7 @@
 
 I am a Gen X dude who was an early adpoter of home computing and all the tech that followed: I have been online since the days of V.23 and 9-pin dot matrix printers. I cut my teeth, like everybody else in the early 1980s, programming BASIC and 6502, upgrading to C and 80x86, all while listening to the _Hitch Hiker's Guide to the Galaxy_[^H2G2] on the radio. I've ran the gamut of embedded systems, enterprise software, fintech, and people and process management. Skip forward a few years and these days I'm into Go, Lisp, SwiftUI, and TypeScript. I know more than enough to be dangerous in C, C++, Dart/Flutter, PDF/PostScript, PHP, and Python.
 
-These days I am busy getting on with my thing building systems (that become platforms) and don't feel the need to humblebrag to the whole world about my accomplishments or every single commit that I make. I don't care about followers, or acquiring kudos, the need for validation, or participating in ceremony over delivery. 
+These days I am busy getting on with my thing building systems (that become platforms) and don't feel the need to humblebrag to the whole world about my accomplishments or every single commit that I make. I don't care about followers, or acquiring kudos, the need for validation, or participating in ceremony over delivery; my KPI is my integrity, and a system uptime veering towards 99.99% or more.
 
 My tcp/ip arrives via an optical cable (FTTH FTW). For giggles, I stress test protocols by connecting over  GSM because I live in an almost dead-spot which makes things really interesting when you have real not synthetic stochastic conditioning to work with.
 
