@@ -10,7 +10,7 @@ My musical taste is pretty eclectic (initially influenced by Tangerine Dream, Ye
 
 My timezone is UTC+1.
 
-I graduated with a BSc (Hons) in Design and Innovation and I have a Master in Fine Art (MFA).
+I graduated with a BSc (Hons) in Design and Innovation and I have a Master (MA) in Visual Arts (which is actually a MFA in disguise, for reasons long lost in academic shenanigans).
 
 If you haven't already done so, I highly recommend that you read Albert-László Barabási's _Linked_, Douglas Coupland's _Microserfs_, William Gibson's _Neuromancer_[^Gibson], Robert A. Heinlein's _Stranger in a Strange Land_, Julian May's _Saga of Pliocene Exile_, and Robert M. Pirsig's _Zen and the Art of Motocycle Maintenance_[^ZAMM].
 
